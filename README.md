@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andriyyezerskiy
-- 👀 I’m interested in iOS, watchOS, iPadOS, macOS 🏗️ and UI/UX 👨🏻‍🎨
-- 🌱 I’m currently learning Blender and SwiftUI animations
+- 👀 I’m interested in visionOS, iOS, watchOS, iPadOS, macOS 🏗️ and UI/UX 👨🏻‍🎨
+- 🌱 I’m currently learning Blender and Spatial Design
 - 📫 How to reach me 📧 andriyyezerskiy@icloud.com
 
 <!---
